@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 public class Constant {
     //TODO replace it with your DB credentials
     static public String DBUserName = "root";
-    static public String DBPassword = "Jtorres00!";
+    static public String DBPassword = "root";
     static public String FileName = "restaurant_data.json";
 
     static public Pattern namePattern = Pattern.compile("^[ A-Za-z]+$");
